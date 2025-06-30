@@ -11,6 +11,7 @@ This repository includes scripts and pipelines for:
 6. <B>Loss-of-Function Variant Parsing</B> - LoF_Parser_phased_disordtails.R: Processes SnpEff-annotated VCF files, integrates custom annotations of disordered protein regions, produces gene-level VCFs for loss-of-function (LoF) mutations, and reports mutation classes, effects, and positions relative to protein structure.
 7. <B>Interactive Mapping of Colombian Cassava Diversity</B> - Mapping_shinyapp.R: R Shiny app for visualizing multiple dimensions of genetic and environmental variation across Colombian cassava populations.
 8. <B>Redundancy Analysis (RDA)</B> - RDA_Colombia_V2.R: Performs RDA and partial RDA analyses testing the effects of population structure, geography, and climate on genetic variation.
+Code authorship: Kehan Zhao & Evan Long
 
 <B>Data Availability</B>:
 Raw sequencing data generated in this study are available in the NCBI Sequence Read Archive (SRA) under BioProject accession PRJNA1228154.
