@@ -13,7 +13,7 @@ This repository includes scripts and pipelines for:
 8. <B>Redundancy Analysis (RDA)</B> - RDA_Colombia_V2.R: Performs RDA and partial RDA analyses testing the effects of population structure, geography, and climate on genetic variation.
 <p><b>Code authorship:</b> Kehan Zhao & Evan Long</p>
 
-<B>Data Availability</B>:
+<B>Data availability</B>:
 Raw sequencing data generated in this study are available in the NCBI Sequence Read Archive (SRA) under BioProject accession PRJNA1228154.
 Sample metadata for both new and previously published datasets are provided in Table S1 of the manuscript.
 For access to additional post-processed data formats or results, please contact the corresponding authors.
